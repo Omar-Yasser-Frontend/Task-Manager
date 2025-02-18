@@ -57,8 +57,8 @@ This project is from **DevChallenges**, but I took the opportunity to expand on 
 
 ## 📂 Repo
 
-You can find the repository here: [](https://task-manager-omar.netlify.app/)
+You can find the repository here: [repo](https://github.com/Omar-Yasser-Frontend/Task-Manager)
 
 ## 🌐 Demo
 
-Check out the live demo here: [](https://task-manager-omar.netlify.app/)
+Check out the live demo here: [live demo](https://task-manager-omar.netlify.app/)
